@@ -1,0 +1,22 @@
+h1{font-weight: bold;
+   color:#FF0000;}
+
+.subtitulo {font-family: 'Courier New', Courier, monospace;
+            color: #696969;
+            font-weight: bold;}
+
+.texto{color: #4F4F4F;
+       font-family: Georgia, 'Times New Roman', Times, serif;}
+
+img{width: 400px;
+    height: 250px;}
+
+textarea{width: 380pt;
+        height: 40pt;
+        font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.layout{padding: 10px;
+        background-color: #fff;
+       }
+
+body{background-color: #B0C4DE;}
